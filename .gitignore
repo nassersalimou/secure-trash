@@ -1,0 +1,6 @@
+.sh-trashbox/
+transpose_file
+transpose_mdp
+*.o
+*.log
+.DS_Store
